@@ -1,4 +1,5 @@
 #Usamos la imagen de node 18 como base para nuestra aplicacion
+#Este es mi comentario de pruebas
 FROM node:18
 #Incluimos metadatos
 LABEL maintainer="rafaelordonezmolina@gmail.com" \
